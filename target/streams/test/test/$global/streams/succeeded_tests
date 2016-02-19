@@ -1,3 +1,4 @@
 #Successful Tests
-#Fri Feb 19 19:23:32 WAT 2016
-filesearcher.FileCheckerTests=1455906212768
+#Fri Feb 19 20:56:09 WAT 2016
+filesearcher.MatcherTests=1455911769097
+filesearcher.FileCheckerTests=1455911769109
