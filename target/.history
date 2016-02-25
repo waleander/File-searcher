@@ -10,3 +10,25 @@ reload
 exit
 ~test
 exit
+~eclipse
+~test
+exit
+~test
+~tests
+~test
+import java.io._
+console
+import java.io
+import java.io._
+console
+exit
+~test
+console
+exit
+runt "txt" "C:\\users\\Akinwale\\Documents" "true" "foo"
+run "txt" "C:\\users\\Akinwale\\Documents" "true" "foo"
+run "txt" "c:\\users\\Akinwale\\Documents\\Demo\\FSearcher" "true" "foo"
+run "txt" "c:\\users\\Akinwale\\Documents\\Demo\\FSearcher" "true" "foo" "results.txt"
+doc
+:q
+exit

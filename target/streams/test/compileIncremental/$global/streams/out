@@ -1,66 +1,15 @@
-[0m[[0mdebug[0m] [0mThe filesearcher.FileObject source file has the following regular definitions changed:[0m
-[0m[[0mdebug[0m] [0m	children.[0m
-[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
-[0m[[0mdebug[0m] [0mFiles invalidated by inheriting from (external) filesearcher.FileObject: Set(); now invalidating by inheritance (internally).[0m
-[0m[[0mdebug[0m] [0mGetting direct dependencies of all sources transitively invalidated by inheritance.[0m
-[0m[[0mdebug[0m] [0mGetting sources that directly depend on (external) filesearcher.FileObject.[0m
-[0m[[0mdebug[0m] [0mNone of the modified names appears in C:\Users\Akinwale\Documents\Demo\FSearcher\src\test\scala\filesearcher\FileCheckerTests.scala. This dependency is not being considered for invalidation.[0m
-[0m[[0mdebug[0m] [0mThe filesearcher.DirectoryObject$ source file has the following regular definitions changed:[0m
-[0m[[0mdebug[0m] [0m	children.[0m
-[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
-[0m[[0mdebug[0m] [0mFiles invalidated by inheriting from (external) filesearcher.DirectoryObject$: Set(); now invalidating by inheritance (internally).[0m
-[0m[[0mdebug[0m] [0mGetting direct dependencies of all sources transitively invalidated by inheritance.[0m
-[0m[[0mdebug[0m] [0mGetting sources that directly depend on (external) filesearcher.DirectoryObject$.[0m
-[0m[[0mdebug[0m] [0mNone of the modified names appears in C:\Users\Akinwale\Documents\Demo\FSearcher\src\test\scala\filesearcher\FileCheckerTests.scala. This dependency is not being considered for invalidation.[0m
-[0m[[0mdebug[0m] [0mThe filesearcher.IOObject source file has the following regular definitions changed:[0m
-[0m[[0mdebug[0m] [0m	children.[0m
-[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
-[0m[[0mdebug[0m] [0mFiles invalidated by inheriting from (external) filesearcher.IOObject: Set(); now invalidating by inheritance (internally).[0m
-[0m[[0mdebug[0m] [0mGetting direct dependencies of all sources transitively invalidated by inheritance.[0m
-[0m[[0mdebug[0m] [0mGetting sources that directly depend on (external) filesearcher.IOObject.[0m
-[0m[[0mdebug[0m] [0mNone of the modified names appears in C:\Users\Akinwale\Documents\Demo\FSearcher\src\test\scala\filesearcher\FileCheckerTests.scala. This dependency is not being considered for invalidation.[0m
-[0m[[0mdebug[0m] [0mThe filesearcher.Matcher source file has the following regular definitions changed:[0m
-[0m[[0mdebug[0m] [0m	<init>, rootLocation.[0m
-[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
-[0m[[0mdebug[0m] [0mFiles invalidated by inheriting from (external) filesearcher.Matcher: Set(); now invalidating by inheritance (internally).[0m
-[0m[[0mdebug[0m] [0mGetting direct dependencies of all sources transitively invalidated by inheritance.[0m
-[0m[[0mdebug[0m] [0mGetting sources that directly depend on (external) filesearcher.Matcher.[0m
-[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of C:\Users\Akinwale\Documents\Demo\FSearcher\src\test\scala\filesearcher\MatcherTests.scala: Set(<init>)[0m
-[0m[[0mdebug[0m] [0mThe filesearcher.FileObject$ source file has the following regular definitions changed:[0m
-[0m[[0mdebug[0m] [0m	children.[0m
-[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
-[0m[[0mdebug[0m] [0mFiles invalidated by inheriting from (external) filesearcher.FileObject$: Set(); now invalidating by inheritance (internally).[0m
-[0m[[0mdebug[0m] [0mGetting direct dependencies of all sources transitively invalidated by inheritance.[0m
-[0m[[0mdebug[0m] [0mGetting sources that directly depend on (external) filesearcher.FileObject$.[0m
-[0m[[0mdebug[0m] [0mNone of the modified names appears in C:\Users\Akinwale\Documents\Demo\FSearcher\src\test\scala\filesearcher\FileCheckerTests.scala. This dependency is not being considered for invalidation.[0m
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mInitial source changes: [0m
 [0m[[0mdebug[0m] [0m	removed:Set()[0m
 [0m[[0mdebug[0m] [0m	added: Set()[0m
 [0m[[0mdebug[0m] [0m	modified: Set()[0m
 [0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
-[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set(NamesChange(filesearcher.FileObject,ModifiedNames(regularNames = children, implicitNames = )), NamesChange(filesearcher.DirectoryObject$,ModifiedNames(regularNames = children, implicitNames = )), NamesChange(filesearcher.IOObject,ModifiedNames(regularNames = children, implicitNames = )), NamesChange(filesearcher.Matcher,ModifiedNames(regularNames = <init>, rootLocation, implicitNames = )), NamesChange(filesearcher.FileObject$,ModifiedNames(regularNames = children, implicitNames = )))[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
 [0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set()[0m
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m	product: Set()[0m
 [0m[[0mdebug[0m] [0m	binary dep: Set()[0m
-[0m[[0mdebug[0m] [0m	external source: Set(C:\Users\Akinwale\Documents\Demo\FSearcher\src\test\scala\filesearcher\MatcherTests.scala)[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\Akinwale\Documents\Demo\FSearcher\src\test\scala\filesearcher\MatcherTests.scala)[0m
-[0m[[0minfo[0m] [0mCompiling 1 Scala source to C:\Users\Akinwale\Documents\Demo\FSearcher\target\scala-2.10\test-classes...[0m
-[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
-[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 61d9534c, interfacing (CompilerInterface) with Scala compiler version 2.10.4[0m
-[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
-[0m[[0mdebug[0m] [0m	-bootclasspath[0m
-[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre1.8.0_66\lib\resources.jar;C:\Program Files\Java\jre1.8.0_66\lib\rt.jar;C:\Program Files\Java\jre1.8.0_66\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_66\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_66\lib\jce.jar;C:\Program Files\Java\jre1.8.0_66\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_66\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_66\classes;C:\Users\Akinwale\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.4.jar[0m
-[0m[[0mdebug[0m] [0m	-classpath[0m
-[0m[[0mdebug[0m] [0m	C:\Users\Akinwale\Documents\Demo\FSearcher\target\scala-2.10\test-classes;C:\Users\Akinwale\Documents\Demo\FSearcher\target\scala-2.10\classes;C:\Users\Akinwale\.ivy2\cache\org.scalatest\scalatest_2.10\jars\scalatest_2.10-2.0.jar;C:\Users\Akinwale\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.10.0.jar;C:\Users\Akinwale\.ivy2\cache\com.novocode\junit-interface\jars\junit-interface-0.9.jar;C:\Users\Akinwale\.ivy2\cache\junit\junit-dep\jars\junit-dep-4.8.2.jar;C:\Users\Akinwale\.ivy2\cache\org.hamcrest\hamcrest-core\jars\hamcrest-core-1.1.jar;C:\Users\Akinwale\.ivy2\cache\org.scala-tools.testing\test-interface\jars\test-interface-0.5.jar[0m
-[0m[[0mdebug[0m] [0mScala compilation took 5.087207604 s[0m
-[0m[[0mdebug[0m] [0mNew invalidations:[0m
-[0m[[0mdebug[0m] [0m	Set()[0m
-[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
-[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
-[0m[[0mdebug[0m] [0m	Set()[0m
-[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set()[0m
